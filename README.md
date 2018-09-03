@@ -1,5 +1,5 @@
 # AWS SDK for PHP Sample Project
-
+# comment
 A simple PHP application illustrating usage of the AWS SDK for PHP.
 
 ## Requirements
